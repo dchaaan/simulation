@@ -93,7 +93,7 @@ day = str2double(get(handles.day,'String')); % 日数
 
 city = zeros(width, length); % 都市
 time = 24 * day; % 時間数
-total = length * length; % 総交差点数
+total = width * length; % 総交差点数
 
 FREE(1) = 0; % 通常交差点数
 CONGESTION(1) = 0; % 渋滞交差点数
