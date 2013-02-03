@@ -1,4 +1,2 @@
-simulation
-==========
-
-simulation
+Simulation and Modeling Analysis.
+GITS, Waseda University
